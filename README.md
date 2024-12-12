@@ -15,16 +15,16 @@ A **C# Windows Desktop Application** powered by **SQL Server**, designed for eff
 
 ## 💻 Tech Stack  
 
-- **Language**:
--<p align="left">
+- **Language**
+<p align="left">
 <a href="https://www.w3schools.com/cs/index.php">
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C# Logo" width="200"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C# Logo" width="100"/>
 </a>
   </p> 
 - **Database**:  
  -<p align="left">
 <a href="https://www.w3schools.com/sql/default.asp">
-<img src="https://www.pngwing.com/en/free-png-imosu" alt="SQL Logo" width="200"/>
+<img src="https://banner2.cleanpng.com/20180330/zle/avid709mg.webp" alt="SQL Logo" width="200"/>
 </a>
   </p> 
 - **Platform**: Windows Desktop Application  
