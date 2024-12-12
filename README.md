@@ -27,12 +27,12 @@ A **C# Windows Desktop Application** powered by **SQL Server**, designed for eff
 - **Database**:  
  -<p align="left">
 <a href="https://www.w3schools.com/sql/default.asp">
-<img src="https://drive.google.com/file/d/1m0Pq1n1gFUCf5tEkmP0IQfBJRztqNql4/view?usp=sharing" width="100"/>
+<img src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text.png" width="100"/>
 </a>
   </p> 
   
-**Platform**: Windows Desktop Application  
----
+**Platform**: 💻 Windows Desktop Application  
+
 
 ## 📁 Database Design  
 
