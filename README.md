@@ -15,10 +15,11 @@ A **C# Windows Desktop Application** powered by **SQL Server**, designed for eff
 
 ## 💻 Tech Stack  
 
-- **Language**: 🟣 C#  
-- **Database**: 🗄️ SQL Server  
+- **Language**:  
+[![C# Logo](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_NVBTVdmjt3Qvq3CZOySXg.png)](https://www.w3schools.com/cs/index.php)
+- **Database**:  
+  [![SQL Server Icon](https://www.pngwing.com/en/free-png-imosu) ](https://www.w3schools.com/sql/default.asp)
 - **Platform**: Windows Desktop Application  
-
 ---
 
 ## 📁 Database Design  
