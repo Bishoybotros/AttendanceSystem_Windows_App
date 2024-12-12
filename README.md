@@ -21,12 +21,13 @@ A **C# Windows Desktop Application** powered by **SQL Server**, designed for eff
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C# Logo" width="100"/>
 </a>
   </p> 
+  
 ---
 
-**Database**:  
+- **Database**:  
  -<p align="left">
 <a href="https://www.w3schools.com/sql/default.asp">
-<img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="SQL Logo" width="100"/>
+<img src="https://drive.google.com/file/d/1m0Pq1n1gFUCf5tEkmP0IQfBJRztqNql4/view?usp=sharing" width="100"/>
 </a>
   </p> 
   
