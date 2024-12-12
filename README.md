@@ -1,4 +1,4 @@
-# Attendance Management System  
+# 📋 Attendance Management System  
 
 A **C# Windows Desktop Application** powered by **SQL Server**, designed for efficient attendance management across multiple user roles: Admin, Doctor, and Student.
 
@@ -15,8 +15,8 @@ A **C# Windows Desktop Application** powered by **SQL Server**, designed for eff
 
 ## 💻 Tech Stack  
 
-- **Language**: C#  
-- **Database**: SQL Server  
+- **Language**: 🟣 C#  
+- **Database**: 🗄️ SQL Server  
 - **Platform**: Windows Desktop Application  
 
 ---
@@ -46,4 +46,3 @@ The database was designed to ensure efficiency and data integrity:
 3. Set up the SQL Server database using the provided schema file.  
 4. Run the application to experience the full functionality of the system.
 
----
