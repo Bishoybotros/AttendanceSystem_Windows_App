@@ -22,12 +22,12 @@ A **C# Windows Desktop Application** powered by **SQL Server**, designed for eff
 </a>
   </p> 
   
----
 
 - **Database**:  
  -<p align="left">
 <a href="https://www.w3schools.com/sql/default.asp">
-<img src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text.png" width="100"/>
+<img src="![image](https://github.com/user-attachments/assets/b4ef4301-e5df-42ab-bb7d-6696100410fd)
+" width="100"/>
 </a>
   </p> 
   
